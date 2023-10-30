@@ -1,0 +1,48 @@
+/* targetting start-button for formatting */
+.start-button {
+  padding: 10px;
+  margin: 30px 0px;
+  color: white;
+  background-color: red;
+  font-size: 2em;
+  border-radius: 10px;
+  width: 120px;
+}
+/* targetting questions and answers for font-size and color */
+.question-blank {
+  font-size: 1.5em;
+  color: blue;
+}
+/* targetting header for formatting */
+header {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  height: 80px;
+}
+/* centering h1 element in titile */
+h1 {
+  text-align: center;
+}
+main {
+  width: 70%;
+  margin: auto;
+}
+/* targetting ol li with mouse cursor being pointer */
+ol li {
+  cursor: pointer;
+  padding: 10px;
+}
+/* formatting input for initials */
+.question-blank input {
+  padding: 5px;
+  margin-left: 5px;
+  font-size: 1em;
+}
+/* formatting button for initials and score submission */
+.question-blank button {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  font-size: 1em;
+}

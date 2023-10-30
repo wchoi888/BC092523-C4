@@ -24,4 +24,4 @@ https://wchoi888.github.io/BC092523-C4/
 
 ## Screenshot
 
-![Web Development Quiz Game]!(image.png)
+![Web Development Quiz Game](image-1.png)
